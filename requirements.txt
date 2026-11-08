@@ -1,0 +1,11 @@
+playwright==1.64.1
+httpx==0.28.1
+parsel==1.12.1
+lxml>=6.0
+pydantic>=2.13
+typer>=0.27
+rich>=15.0
+protego==0.7.0
+claude-agent-sdk==0.2.179
+starlette>=1.0
+uvicorn>=0.30

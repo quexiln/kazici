@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kazici-web",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "kazici", "web", "--no-open"],
+      "port": 8765
+    },
+    {
+      "name": "kazici-web-test",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "kazici", "web", "--no-open", "--port", "8767"],
+      "port": 8767
+    }
+  ]
+}

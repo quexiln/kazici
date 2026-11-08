@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local run outputs and archive
+output/
+old_tests/
+kazici-web.log
+*.log
+
+
+.claude/settings.local.json
+
+# local rules
+rules/
